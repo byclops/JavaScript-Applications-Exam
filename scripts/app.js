@@ -1,11 +1,3 @@
-/*  Please note:
-*   I have tried to conform to the MVC architecture,
-*   without splitting the app into separate classes
-*   and files, in order to save some time
-* */
-
-
-
 const kinveyBaseUrl = "https://baas.kinvey.com/";
 const kinveyAppKey = "kid_By7Twu5Qx";
 const kinveyAppSecret = "0005223cf04344b6955340f11db8ad32";
